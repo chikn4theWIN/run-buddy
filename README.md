@@ -12,3 +12,5 @@ https://chikn4theWIN.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Cam
+
+### ©️2019 Run Buddy, Inc 
